@@ -1,0 +1,6 @@
+{
+    "jwtSecret": "yourProductionSecretKey",
+    "mongoURI": "yourProductionMongoURI",
+    "logLevel": "info"
+  }
+  

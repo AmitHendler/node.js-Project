@@ -1,0 +1,6 @@
+{
+    "jwtSecret": "yourSecretKey",
+    "mongoURI": "mongodb+srv://hendleramit8:<4121998Amit>@hendlera41.t9hoazl.mongodb.net/?retryWrites=true&w=majority&appName=HendlerA41",
+    "logLevel": "debug"
+  }
+  
